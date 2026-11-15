@@ -6,6 +6,7 @@ Retro projects built by members of the Retro Hardware Discord.
 | ----- | ---- | ----- | --------|
 | 8-bit Hardware Simulator | [zzleezz/8bit-hw-simulator](https://github.com/zzleezz/8bit-hw-simulator) | Pin-level simulator of the Commodore 64 and ZX Spectrum | @morefunmakingit |
 | Acorn A3010 Main Board | [Board-Folk/Acorn_A3010](https://github.com/Board-Folk/Acorn_A3010) | Reproduction main board for the Acorn A3010 (194,003 issue 1), in testing | @jimbro1000 |
+| Atari ST Mean Well PSU Adapter | [flamelily/AtariPSUToMeanwell](https://github.com/flamelily/AtariPSUToMeanwell) | Board for mounting a Mean Well RT-50A/RT-50B power supply inside an Atari ST | @del_boy_ |
 | Commodore PC10-III Main Board | [Board-Folk/Commodore-PC10-III-Reproduction](https://github.com/Board-Folk/Commodore-PC10-III-Reproduction) | Reproduction main board for the Commodore PC10-III (312628 rev 5.7A and 6c) | @chrissy6969 |
 | Copperline | [copperline.dev](https://copperline.dev/) | Open-source Amiga emulator (OCS, ECS and AGA) written in Rust | @linuxjedi |
 | Mega CD Main Board | [Board-Folk/MegaCD-Main-BD](https://github.com/Board-Folk/MegaCD-Main-BD) | Reproduction main boards for Sega's Mega CD / Sega CD | @cosam2 |
