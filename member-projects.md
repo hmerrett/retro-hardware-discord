@@ -16,6 +16,7 @@ Retro projects built by members of the Retro Hardware Discord.
 | PC Engine Duo Main Board | [Board-Folk/PC-Engine-Duo](https://github.com/Board-Folk/PC-Engine-Duo) | Reproduction main board for NEC's PC Engine Duo | @cosam2 |
 | PC Engine GT Main Board | [Board-Folk/PC-Engine-GT](https://github.com/Board-Folk/PC-Engine-GT) | Reproduction main board for the PC Engine GT / TurboExpress handheld | @cosam2 |
 | PC Engine Main Board | [Board-Folk/PC-Engine](https://github.com/Board-Folk/PC-Engine) | Reproduction main board for NEC's PC Engine | @cosam2 |
+| PicoZorro | [maximevince/PicoZorro](https://github.com/maximevince/PicoZorro) | Amiga Zorro II cards driven directly by an RP2350; the first, PicoZorro One, adds Ethernet, USB host and MP3 decoding | @andipexton |
 | Retro Hardware Database | [hmerrett/retro-hardware-database](https://github.com/hmerrett/retro-hardware-database)  | Log your retro hardware collection. | @hmerrett |
 | TRS-80 Model I Main Board | [Board-Folk/TRS80IUS](https://github.com/Board-Folk/TRS80IUS), [Board-Folk/TRS80IJP](https://github.com/Board-Folk/TRS80IJP) | Remakes of the TRS-80 Model I motherboard: US (1700069G) and Japanese (TEC) versions | @grandoldian |
 

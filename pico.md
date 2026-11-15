@@ -66,6 +66,7 @@ Retro hardware projects built on the Raspberry Pi Pico (RP2040 / RP2350).
 | PicoStation                    | [picostation/picostation](https://github.com/picostation/picostation) | |
 | PicoTerm                       | [RC2014Z80/picoterm](https://github.com/RC2014Z80/picoterm) | |
 | picoZ80                        | [eaw/pico](https://git.eaw.app/eaw/pico) | |
+| PicoZorro                      | [maximevince/PicoZorro](https://github.com/maximevince/PicoZorro) | |
 | PiVIC                          | [sodiumlb/pivic-hardware](https://github.com/sodiumlb/pivic-hardware) | |
 | PsNeePIO                       | [nmanzi/PsNeePIO](https://github.com/nmanzi/PsNeePIO) | |
 | RC2014 RP2040 VGA Terminal     | [RC2014Z80/picoterm](https://github.com/RC2014Z80/picoterm) | |
