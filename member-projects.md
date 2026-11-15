@@ -11,6 +11,7 @@ Retro projects built by members of the Retro Hardware Discord.
 | Mega CD Main Board | [Board-Folk/MegaCD-Main-BD](https://github.com/Board-Folk/MegaCD-Main-BD) | Reproduction main boards for Sega's Mega CD / Sega CD | @cosam2 |
 | Neo Geo AES 3.5 Main Board | [Board-Folk/NeoGeoAES-3.5](https://github.com/Board-Folk/NeoGeoAES-3.5) | Reproduction main board for the Neo Geo AES console | @chrissy6969, @robtaylor |
 | Neptune 32X/MD2 | [Board-Folk/Neptune](https://github.com/Board-Folk/Neptune) | Recreation of Sega's cancelled Neptune: a 32X and Mega Drive 2 on one board | @cosam2, @chrissy6969 |
+| Newdles 3D Prints | [newdles on Thingiverse](https://www.thingiverse.com/newdles/designs) | 3D-printable Commodore designs, including a C64 Dead-Test cartridge case, a mini 1701 monitor for the C64 Mini, C64 wall hooks and a C64-style floppy box | @leighvo |
 | PC Engine Duo Main Board | [Board-Folk/PC-Engine-Duo](https://github.com/Board-Folk/PC-Engine-Duo) | Reproduction main board for NEC's PC Engine Duo | @cosam2 |
 | PC Engine GT Main Board | [Board-Folk/PC-Engine-GT](https://github.com/Board-Folk/PC-Engine-GT) | Reproduction main board for the PC Engine GT / TurboExpress handheld | @cosam2 |
 | PC Engine Main Board | [Board-Folk/PC-Engine](https://github.com/Board-Folk/PC-Engine) | Reproduction main board for NEC's PC Engine | @cosam2 |
