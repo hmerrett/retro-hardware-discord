@@ -79,5 +79,6 @@ Retro hardware projects built on the Raspberry Pi Pico (RP2040 / RP2350).
 | SNES Dumper RP2040             | [pakutoma/snes-dumper-rp2040](https://github.com/pakutoma/snes-dumper-rp2040) | |
 | tzpuPico                       | [eaw/pico](https://git.eaw.app/eaw/pico) | |
 | USBSID-Pico                    | [LouDnl/USBSID-Pico](https://github.com/LouDnl/USBSID-Pico) | |
+| VersaTermMinus VT100 Terminal  | [jimbro1000/VersaTermMinus](https://github.com/jimbro1000/VersaTermMinus) | HDMI and VGA supported. RS232 and TTL |
 | Wasca                          | [hitomi2500/wasca](https://github.com/hitomi2500/wasca) | FPGA with a PicoRV32 soft CPU, not an RP2040 |
 | ZX Spectrum Pico Memory        | [derekfountain/zx-spectrum-pico-memory](https://github.com/derekfountain/zx-spectrum-pico-memory) | |
