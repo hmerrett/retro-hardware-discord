@@ -10,6 +10,7 @@ Retro hardware projects built on the Raspberry Pi Pico (RP2040 / RP2350).
 | A8PicoCart                     | [robinhedwards/A8PicoCart](https://github.com/robinhedwards/A8PicoCart) | |
 | Amigahid pico                  | [borb/amigahid-pico](https://github.com/borb/amigahid-pico) | |
 | AppleII-VGA                    | [markadev/AppleII-VGA](https://github.com/markadev/AppleII-VGA) | |
+| Apricot Hard Disk Interface    | [stephen-usher/Apricot-Hard-Disk-Interface](https://github.com/stephen-usher/Apricot-Hard-Disk-Interface) | |
 | BlueSCSI v2 / Ultra            | [BlueSCSI/BlueSCSI-v2](https://github.com/BlueSCSI/BlueSCSI-v2) | |
 | C64 Pico RAM Interface         | [cknave/c64-pico-ram-interface](https://github.com/cknave/c64-pico-ram-interface) | |
 | ClockworkPi PicoCalc           | [clockworkpi/PicoCalc](https://github.com/clockworkpi/PicoCalc) | |
@@ -37,6 +38,7 @@ Retro hardware projects built on the Raspberry Pi Pico (RP2040 / RP2350).
 | Nebula32                       | [caddy666/Nebula32](https://github.com/caddy666/Nebula32) | |
 | OCULA                          | [sodiumlb/ocula-hardware](https://github.com/sodiumlb/ocula-hardware) | |
 | One ROM                        | [piersfinlayson/one-rom](https://github.com/piersfinlayson/one-rom) | |
+| Pico Scanned Keyboard Matrix Emulator | [stephen-usher/Pico-Scanned-Keyboard-Matrix-Emulator](https://github.com/stephen-usher/Pico-Scanned-Keyboard-Matrix-Emulator) | |
 | Pico SD-IDE                    | [ExtremeElectronics/Pico-SD--IDE-interface--for-Rc2014](https://github.com/ExtremeElectronics/Pico-SD--IDE-interface--for-Rc2014) | |
 | Pico-286                       | [xrip/pico-286](https://github.com/xrip/pico-286) | |
 | pico-bootLoader                | [PicoPlus-devel/pico-bootLoader](https://github.com/PicoPlus-devel/pico-bootLoader) | |
